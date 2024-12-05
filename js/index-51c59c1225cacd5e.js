@@ -343,7 +343,7 @@
               },
               children: [
                 (0, a.jsx)("a", {
-                  href: "https://x.com/Stacy2069AI",
+                  href: "https://x.com/Stacyvirtuals",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   style: {
